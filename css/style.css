@@ -44,6 +44,7 @@ a {
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 /* Buttons */
@@ -275,6 +276,8 @@ header {
 /* Highlights */
 
 .container__highlights {
+  /* Can work with % but there must be no element with 'width parameter inside */
+  /* max-width: 83.1%; */
   max-width: 1124px;
   height: 370px;
   background-color: var(--color-white);
@@ -341,7 +344,6 @@ header {
   font-weight: 400;
   line-height: 1.375rem;
   color: var(--color-black);
-  max-width: 416px;
 }
 
 .highlights-subtitle::after {
@@ -367,7 +369,9 @@ header {
 }
 
 .highlights__left-column__image--second-highlight {
-  max-width: 426px;
+  /* max-width: 426px; */
+  width: 56%;
+  height: auto;
   margin-left: 70px;
   margin-top: 29px;
   margin-bottom: 13px;
@@ -445,14 +449,14 @@ header {
   background-color: var(--color-green);
   height: 4px;
   margin-top: 50px;
-  width: 332px;
+  width: 60%;
 }
 
 .right-column {
   background-color: var(--color-green);
   border: 1px solid var(--color-green);
   border-radius: 4px;
-  width: 440px;
+  width: 39%;
   height: 370px;
   display: flex;
   align-items: center;
@@ -461,7 +465,7 @@ header {
 
 .right-column__image {
   margin-top: 40px;
-  width: 296px;
+  width: 68%;
   height: auto;
 }
 
@@ -479,7 +483,7 @@ header {
 }
 
 .container-prices {
-  max-width: 1352px;
+  /* max-width: 1352px; */
   display: flex;
   justify-content: space-between;
 }
@@ -593,7 +597,7 @@ header {
 
 .container__contact {
   padding-top: 100px;
-  max-width: 800px;
+  max-width: 59%;
   width: var(--container-width);
   display: flex;
   justify-content: center;
