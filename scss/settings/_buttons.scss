@@ -1,0 +1,62 @@
+@import "/scss/settings/_variables";
+@import "/scss/settings/_mixins";
+
+.btn-primary {
+  background-color: $color-primary;
+  border: none;
+  box-shadow: 5px 10px 14px #07ace629;
+
+  color: $color-white;
+  font-size: 1rem;
+  line-height: 1.375rem;
+  font-weight: 700;
+  padding: 22px;
+  border-radius: 40px;
+  transition: background-color 0.5s;
+}
+
+.btn-primary:hover {
+  background-color: #1d6f8f;
+}
+
+.btn-primary--big {
+  padding: 22px 157px;
+}
+
+.btn-secondary {
+  font-family: $font-open-sans;
+  padding: 16px 57px;
+  font-size: 0.8125rem;
+  line-height: 0.8125rem;
+  font-weight: 600;
+  border-radius: 23px;
+  position: absolute;
+  bottom: -5%;
+}
+
+.btn-secondary--red {
+  background-color: var(--color-redish);
+}
+
+.btn-secondary--red:hover {
+  background-color: #af2644;
+}
+
+.btn-secondary--blue {
+  background-color: var(--color-primary);
+}
+
+.btn-secondary--green {
+  background-color: var(--color-green);
+}
+
+.btn-secondary--green:hover {
+  background-color: #44ad8c;
+}
+
+.btn-contact {
+  font-size: 0.8125rem;
+  padding: 20px 97px;
+  margin-top: 20px;
+  align-self: flex-end;
+}
