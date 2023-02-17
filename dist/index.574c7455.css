@@ -476,4 +476,185 @@ header .container__header .header__menu .menu__element:hover a {
   }
 }
 
+.highlights {
+  background-color: #f7f7f7;
+  padding-top: 105px;
+  padding-bottom: 105px;
+}
+
+.highlights .container__highlights {
+  max-width: 1124px;
+  height: 370px;
+  background-color: #fff;
+  border: 1px solid #e8e9ed;
+  border-radius: 5px;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  margin-bottom: 37px;
+  display: flex;
+}
+
+.highlights .container__highlights .highlights__left-column--first-highlight {
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 36px;
+  display: flex;
+}
+
+.highlights .container__highlights .highlights__right-column--first-highlight {
+  margin-right: 117px;
+  display: flex;
+  position: relative;
+}
+
+.highlights .container__highlights .highlights__right-column--first-highlight .highlights__right-column__image--first-highlight {
+  z-index: 1;
+  margin-top: 113px;
+  margin-bottom: 38px;
+}
+
+.highlights .container__highlights .highlights__right-column--first-highlight:after {
+  content: "";
+  height: 180px;
+  width: 180px;
+  z-index: 0;
+  background-color: #fb3b64;
+  border-radius: 40px;
+  display: block;
+  position: absolute;
+  top: 70px;
+  right: 0;
+  transform: rotate(45deg);
+}
+
+.highlights .container__highlights .highlights__right-column--second-highlight {
+  flex-direction: column;
+  justify-content: center;
+  display: flex;
+}
+
+.highlights .container__highlights .highlights__right-column--second-highlight .highlights-title--second-highlight {
+  max-width: 246px;
+}
+
+.highlights .container__highlights .highlights__right-column--second-highlight .highlights-subtitle--second-highlight {
+  max-width: 416px;
+  margin-right: 20px;
+}
+
+.highlights .container__highlights .highlights__right-column--second-highlight .highlights-subtitle--second-highlight:after {
+  content: "";
+  height: 4px;
+  width: 332px;
+  background-color: #08a6e4;
+  margin-top: 50px;
+  display: block;
+}
+
+.highlights .container__highlights .highlights__left-column--second-highlight {
+  z-index: 0;
+  position: relative;
+}
+
+.highlights .container__highlights .highlights__left-column--second-highlight .highlights__left-column__image--second-highlight {
+  width: 56%;
+  height: auto;
+  margin-top: 29px;
+  margin-bottom: 13px;
+  margin-left: 70px;
+}
+
+.highlights .container__highlights .highlights__left-column--second-highlight:after {
+  content: "";
+  height: 320px;
+  width: 320px;
+  z-index: -1;
+  background-color: #08a6e4;
+  border-radius: 50%;
+  display: block;
+  position: absolute;
+  top: 12px;
+  left: 70px;
+}
+
+.highlights-title {
+  text-align: left;
+  margin-bottom: 30px;
+  font-size: 2.25rem;
+  font-weight: 400;
+}
+
+.highlights-subtitle {
+  text-align: left;
+  color: var(--color-black);
+  font-family: Open Sans, sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.375rem;
+}
+
+.highlights-subtitle:after {
+  content: "";
+  height: 4px;
+  width: 332px;
+  background-color: #fb3b64;
+  margin-top: 50px;
+  display: block;
+}
+
+.container-2-columns {
+  width: 1352px;
+  width: 1124px;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+
+.container-2-columns .column {
+  background-color: #fff;
+  border: 1px solid #e8e9ed;
+  border-radius: 4px;
+}
+
+.container-2-columns .left-column {
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 35px;
+  padding-right: 35px;
+  display: flex;
+}
+
+.container-2-columns .left-column .highlights-title__left-column {
+  max-width: 348px;
+}
+
+.container-2-columns .left-column .highlights-subtitle__left-column {
+  max-width: 553px;
+}
+
+.container-2-columns .left-column .highlights-subtitle__left-column:after {
+  content: "";
+  height: 4px;
+  width: 60%;
+  background-color: #55dfb4;
+  margin-top: 50px;
+  display: block;
+}
+
+.container-2-columns .right-column {
+  width: 39%;
+  height: 370px;
+  background-color: #55dfb4;
+  border: 1px solid #55dfb4;
+  border-radius: 4px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.container-2-columns .right-column .right-column__image {
+  width: 68%;
+  height: auto;
+  margin-top: 40px;
+}
+
 /*# sourceMappingURL=index.574c7455.css.map */
