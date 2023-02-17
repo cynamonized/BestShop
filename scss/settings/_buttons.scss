@@ -21,6 +21,14 @@
 
 .btn-primary--big {
   padding: 22px 157px;
+
+  @include tablet {
+    margin: 0 32px;
+    padding: 22px 0;
+
+    max-width: calc(100% - 64px);
+    width: 310px;
+  }
 }
 
 .btn-secondary {

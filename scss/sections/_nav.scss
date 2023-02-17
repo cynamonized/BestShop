@@ -3,45 +3,173 @@ header {
   justify-content: center;
   height: 70px;
   box-shadow: 0px 3px 6px $color-primary-shadow;
-}
 
-.container__header {
-  display: flex;
-  justify-content: space-between;
-  margin: 0 55px;
-  flex-wrap: nowrap;
-}
+  .container__header {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 25px;
+    flex-wrap: nowrap;
+    align-items: center;
 
-.header__logo-left {
-  display: inline-block;
-  font-size: 2rem;
-  font-weight: 300;
-  color: $color-primary;
-  align-self: center;
-}
+    .header__logo-left {
+      display: inline-block;
+      font-size: 2rem;
+      font-weight: 300;
+      color: $color-primary;
+      align-self: center;
+    }
 
-.header__menu {
-  display: flex;
-}
+    // Disabled checkbox
 
-.menu__element {
-  display: block;
-  display: flex;
-  align-items: center;
-  border-bottom: 4px solid transparent;
-  padding: 0 22px;
-}
+    .menu-btn {
+      display: none;
+    }
 
-.menu__element--link {
-  padding: 28px 18px 23px;
-  color: $color-grey;
-  font-weight: 700;
-  letter-spacing: 0.205rem;
-  font-size: 0.6875rem;
-  text-transform: uppercase;
-}
+    //Hamburger Icon - visual & animation
 
-.menu__element:hover {
-  color: $color-black;
-  border-bottom: 4px solid $color-primary;
+    .menu-icon {
+      cursor: pointer;
+      display: block;
+      float: right;
+      padding: 28px 0;
+      position: relative;
+      user-select: none;
+      display: none;
+
+      .navicon {
+        background: $color-primary;
+        display: block;
+        height: 2px;
+        position: relative;
+        transition: background 0.2s ease-out;
+        width: 18px;
+        // display: none;
+
+        &::before,
+        &::after {
+          background: $color-primary;
+          content: "";
+          display: block;
+          height: 100%;
+          position: absolute;
+          transition: all 0.2s ease-out;
+          width: 100%;
+        }
+
+        &::before {
+          top: 5px;
+        }
+
+        &::after {
+          top: -5px;
+        }
+      }
+    }
+
+    .menu-btn:checked ~ .menu-icon .navicon {
+      background: transparent;
+    }
+
+    .menu-btn:checked ~ .menu-icon .navicon:before {
+      transform: rotate(-45deg);
+    }
+
+    .menu-btn:checked ~ .menu-icon .navicon:after {
+      transform: rotate(45deg);
+    }
+
+    .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
+    .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
+      top: 0;
+    }
+
+    .header__menu {
+      display: flex;
+      height: 100%;
+
+      .menu__element {
+        display: block;
+        display: flex;
+        align-items: center;
+        border-bottom: 4px solid transparent;
+        padding: 0 22px;
+        height: 100%;
+
+        .menu__element--link {
+          padding: 28px 18px 23px;
+          font-weight: 700;
+          letter-spacing: 0.205rem;
+          font-size: 0.6875rem;
+          color: $color-grey;
+          text-transform: uppercase;
+        }
+
+        &:hover {
+          border-bottom: 4px solid $color-primary;
+
+          a {
+            color: black;
+          }
+        }
+      }
+    }
+  }
+
+  @include tablet {
+    .container__header {
+      position: relative;
+      .menu-icon {
+        display: block;
+      }
+
+      .header__menu {
+        display: none;
+      }
+
+      .menu-btn:checked ~ .header__menu {
+        display: flex;
+        flex-direction: column;
+        background-color: white;
+        box-shadow: 0px 3px 6px $color-primary-shadow;
+        position: absolute;
+        top: 70px;
+        left: -25px;
+        height: unset;
+        width: calc(100% + 50px);
+        z-index: -1;
+
+        .menu__element {
+          margin: 14px 25px;
+          padding: 0;
+          display: flex;
+          align-items: flex-end;
+          border-bottom: none;
+
+          .menu__element--link {
+            padding: 0;
+            margin: 0;
+            line-height: 0.6875rem;
+          }
+
+          &:hover {
+            border-bottom: none;
+            color: black;
+            height: auto;
+
+            a {
+              color: black;
+            }
+          }
+
+          &:first-of-type {
+            margin-top: 30px;
+          }
+
+          &:last-of-type {
+            margin-bottom: 30px;
+          }
+        }
+      }
+    }
+  }
 }

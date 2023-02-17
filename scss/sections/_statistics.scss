@@ -1,0 +1,119 @@
+.statistics {
+  //   display: flex;
+  //   justify-content: center;
+  //   margin: 0 auto;
+
+  .container__statistics {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 800px;
+  }
+
+  .section__title {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-size: 2.25rem;
+    font-weight: 400;
+  }
+
+  .statistics__columns {
+    display: flex;
+    justify-content: space-between;
+    color: $color-black;
+
+    .columns__single-column {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 121px;
+
+      .single-column__circle {
+        height: 63px;
+        width: 63px;
+        background-color: $color-primary;
+        border-radius: 50%;
+        position: relative;
+      }
+
+      .single-column__circle--red {
+        background-color: $color-redish;
+      }
+
+      .single-column__circle--green {
+        background-color: $color-green;
+      }
+
+      .circle__icon {
+        position: absolute;
+        left: 50%;
+      }
+
+      .circle__icon--person {
+        top: 0px;
+      }
+
+      .circle__icon--eye {
+        top: 25%;
+      }
+
+      .circle__icon--catalog {
+        top: 6px;
+      }
+
+      .single-column__number {
+        letter-spacing: 0.375rem;
+        font-size: 1.25rem;
+        font-weight: 800;
+        margin-top: 13px;
+        margin-bottom: 19px;
+      }
+
+      .single-column__text {
+        text-align: center;
+        color: $color-grey;
+        font-size: 1rem;
+        font-weight: 400;
+      }
+    }
+  }
+
+  @include tablet {
+    .container__statistics {
+      width: 85%;
+    }
+
+    .section__title {
+      margin: 60px 0;
+    }
+
+    .statistics__columns {
+      .columns__single-column {
+        margin-bottom: 50px;
+      }
+    }
+  }
+
+  @include mobile {
+    .container__statistics {
+      width: 95%;
+    }
+
+    .section__title {
+      font-size: 1.875rem;
+      margin-left: 36px;
+      margin-right: 36px;
+
+      margin: 50px 30px 40px 40px;
+    }
+
+    .statistics__columns {
+      display: flex;
+      flex-direction: column;
+      .columns__single-column {
+        margin-bottom: 25px;
+      }
+    }
+  }
+}

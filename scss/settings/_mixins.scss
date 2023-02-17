@@ -1,0 +1,21 @@
+// max-1140 - small desktop
+// max-870 - collapse menu into hamburger
+// max-670 - full mobile
+
+@mixin small_desktop {
+  @media (max-width: 1440px) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (max-width: 870px) {
+    @content;
+  }
+}
+
+@mixin mobile {
+  @media (max-width: 670px) {
+    @content;
+  }
+}

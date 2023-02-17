@@ -6,6 +6,7 @@
 html {
   scroll-behavior: smooth;
   font-size: 16px;
+  min-width: 220px;
 }
 
 * {
@@ -18,6 +19,7 @@ html {
 
 body {
   font-family: $font-raleway;
+  min-width: 220px;
 }
 
 a {
@@ -25,11 +27,23 @@ a {
 }
 
 .container {
-  width: $container-width;
+  width: 100%;
+  max-width: $container-width;
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+
+  @include small_desktop {
+    width: $container-width-small-desktop;
+  }
+
+  @include tablet {
+    width: 100%;
+    max-width: none;
+  }
 }
 
 @import "/scss/sections/_nav";
+@import "/scss/sections/_hero";
+@import "/scss/sections/_statistics";
