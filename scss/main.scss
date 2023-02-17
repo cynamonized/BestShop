@@ -44,6 +44,26 @@ a {
   }
 }
 
+.highlights {
+  .container__highlights {
+    max-width: 1124px;
+
+    @include smallest_desktop {
+      max-width: 860px;
+    }
+
+    @include tablet {
+      max-width: none;
+      width: 90%;
+      margin: 0 auto;
+    }
+
+    @include mobile {
+      width: 95%;
+    }
+  }
+}
+
 @import "/scss/sections/_nav";
 @import "/scss/sections/_hero";
 @import "/scss/sections/_statistics";

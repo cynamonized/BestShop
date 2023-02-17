@@ -4,7 +4,6 @@
   padding-bottom: 105px;
 
   .container__highlights {
-    max-width: 1124px;
     height: 370px;
     background-color: $color-white;
     margin-bottom: 37px;
@@ -98,6 +97,65 @@
         top: 12px;
         border-radius: 50%;
         z-index: -1;
+      }
+    }
+
+    //
+  }
+
+  @include smallest_desktop {
+    .container__highlights {
+      .highlights__left-column--first-highlight {
+      }
+
+      .highlights__right-column--first-highlight {
+        margin-right: 45px;
+      }
+    }
+  }
+
+  @include tablet {
+    padding-top: 42px;
+    .container__highlights {
+      .highlights__left-column--first-highlight {
+        width: 60%;
+        margin-right: 25px;
+      }
+
+      .highlights__right-column--first-highlight {
+        margin-top: 25px;
+        margin-bottom: 25px;
+
+        // width: 20%;
+
+        .highlights__right-column__image--first-highlight {
+          object-fit: contain;
+          margin-top: 0px;
+          margin-bottom: 0px;
+
+          //hard code - tb changed - %%% doesn't work
+          width: 250px;
+
+          //   or works???? With 20% of container above
+          // TBD
+          //   width: 100%;
+        }
+      }
+
+      //
+
+      //font sizes change bc of specifity
+      //otherwise, it would be the same
+      // coz font sizes declared BELOW
+      .highlights-title {
+        font-size: 1.875rem;
+      }
+      .highlights-subtitle {
+        font-size: 0.875rem;
+
+        &::after {
+          width: unset;
+        }
       }
     }
   }

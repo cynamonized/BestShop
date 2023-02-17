@@ -8,6 +8,12 @@
   }
 }
 
+@mixin smallest_desktop {
+  @media (max-width: 1124px) {
+    @content;
+  }
+}
+
 @mixin tablet {
   @media (max-width: 870px) {
     @content;
