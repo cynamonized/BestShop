@@ -1,4 +1,4 @@
-4405
+4407
 91C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\escalade\dist\index.js133207983879768816 0
 88C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\msgpackr\index.d.ts133207983907246517 0
 74C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\chalk133207983884810685 1
@@ -7,7 +7,7 @@
 93C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\msgpackr-extract\LICENSE133207983878282959 0
 59C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\css133207978928465634 1
 60C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\scss133207988576576097 1
-60C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist133210547314587237 1
+60C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist133211276269273531 1
 89C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\hash\LICENSE133207983878443572 0
 83C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\.bin\json5.ps1133207983936806298 0
 124C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c133207983910168901 0
@@ -25,6 +25,14 @@
 87C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\.package-lock.json133207983943282567 0
 103C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\features\midi.js133207983928331522 0
 68C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules133207983943257571 1
+85C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\readdirp\LICENSE133207983878262958 0
+107C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\css-tree\lib\syntax\atrule\supports.js133207983915721750 0
+109C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\runtime-browser-hmr\package.json133207983886948414 0
+84C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\yaml\index.d.ts133207983909487784 0
+109C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\css-tree\lib\syntax\node\TypeSelector.js133207983915927485 0
+86C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\scss\sections\_highlights.scss133211276355477349 0
+94C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\chalk\source\templates.js133207983880890562 0
+96C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\domelementtype\package.json133207983883529121 0
 62C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\images133207978928644916 1
 94C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\namer-default\src133207983880860562 1
 100C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\regions\SE.js133207983930554924 0
@@ -49,7 +57,7 @@
 115C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\fs-search\fs-search.linux-x64-gnu.node133207983904206273 0
 114C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\csso\lib\restructure\2-initialMergeRuleset.js133207983881166649 0
 107C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\css-tree\lib\syntax\node\Combinator.js133207983894905247 0
-66C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\index.html133210547591761665 0
+66C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\index.html133211276360102903 0
 128C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.c133207983904261575 0
 96C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\package-manager\lib133207983908446466 1
 107C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\chrome-trace-event\dist\trace-event.js133207983878544121 0
@@ -66,7 +74,7 @@
 68C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\package.json133207983698833244 0
 79C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\is-extglob133207983881375778 1
 125C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\runtime-react-refresh\lib\ReactRefreshRuntime.js133207983879833684 0
-70C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\scss\main.scss133210518573901304 0
+70C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\scss\main.scss133211244897523590 0
 111C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\lmdb\dependencies\lz4\lib\liblz4-dll.rc.in133207983915522063 0
 82C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\lmdb\level.js133207983915756750 0
 87C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\chokidar\README.md133207983886146562 0
@@ -75,7 +83,7 @@
 95C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\svgo\plugins\reusePaths.js133207983911603454 0
 93C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\optimizer-terser133207983882011603 1
 100C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\regions\ER.js133207983922931278 0
-69C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\scss\sections133207989005916084 1
+69C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\scss\sections133211216231304212 1
 123C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json133207983887979541 0
 86C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\yaml\package.json133207983907993979 0
 106C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133207983901363833 0
@@ -112,7 +120,7 @@
 98C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\terser\lib\compress\common.js133207983897829216 0
 104C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\update-browserslist-db\package.json133207983883458927 0
 118C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\hash\parcel-hash.linux-arm-gnueabihf.node133207983897427169 0
-82C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\scss\settings\_mixins.scss133209672654441666 0
+82C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\scss\settings\_mixins.scss133211238567654906 0
 97C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\postcss-value-parser\LICENSE133207983878262958 0
 99C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\detect-libc\lib\detect-libc.js133207983884350894 0
 94C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\type-fest\ts41\index.d.ts133207983894585287 0
@@ -131,14 +139,16 @@
 99C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\sass\types\legacy\options.d.ts133207983913216239 0
 103C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\features\wasm.js133207983932752909 0
 81C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\scss\settings\_reset.scss133209641952999523 0
-85C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\scss\settings\_variables.scss133209664878824876 0
+85C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\scss\settings\_variables.scss133211236334043271 0
 154C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up133207983915335611 1
 91C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\entities\lib\encode.js133207983886785891 0
 110C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\features\canvas-text.js133207983914130405 0
 77C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\anymatch133207983882429414 1
-80C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\scss\sections\_hero.scss133210547583947625 0
+80C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\scss\sections\_hero.scss133210580992853808 0
 100C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\regions\NO.js133207983928977143 0
 79C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\scss\sections\_nav.scss133210518443334942 0
+118C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\htmlnano\lib\modules\minifyConditionalComments.js133207983894213163 0
+86C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\scss\sections\_statistics.scss133210595591282917 0
 103C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\codeframe\src\codeframe.js133207983897955253 0
 75C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@babel133207983869273506 1
 79C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\Close.f14f7566.svg133209648980159333 0
@@ -231,8 +241,6 @@
 77C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\boolbase133207983880293071 1
 117C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\features\css-matches-pseudo.js133207983917533135 0
 90C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\utility-types\LICENSE133207983878217106 0
-107C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\css-tree\lib\syntax\node\Identifier.js133207983909683634 0
-77C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\error-ex133207983881421548 1
 75C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\braces133207983883417530 1
 112C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\features\link-icon-png.js133207983927483740 0
 111C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\htmlnano\lib\modules\removeOptionalTags.js133207983898327312 0
@@ -318,19 +326,21 @@
 93C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\transformer-sass133207983881979413 1
 92C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\lines-and-columns\build133207983882554118 1
 78C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\svgo\dist133207983912420743 1
+107C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\css-tree\lib\syntax\node\Identifier.js133207983909683634 0
+77C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\error-ex133207983881421548 1
 77C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\mdn-data133207983898748452 1
 105C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\core\lib\loadParcelPlugin.js133207983913862016 0
 92C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\sass\types\options.d.ts133207983913321239 0
 77C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\escalade133207983885935332 1
 109C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\features\indexeddb2.js133207983926220450 0
+116C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\lmdb.h133207983914749619 0
+85C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\srcset\readme.md133207983881592962 0
+99C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\xxhash-wasm\umd\xxhash-wasm.js133207983881671104 0
+104C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\features\proxy.js133207983929854335 0
 89C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\source-map\README.md133207983879728597 0
 121C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\package.json133207983915465898 0
 96C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\source-map-js\source-map.js133207983888069537 0
-99C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\xxhash-wasm\umd\xxhash-wasm.js133207983881671104 0
-104C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\features\proxy.js133207983929854335 0
 89C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\escape-string-regexp133207983881385782 1
-116C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\lmdb.h133207983914749619 0
-85C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\srcset\readme.md133207983881592962 0
 79C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\fill-range133207983881396427 1
 77C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\get-port133207983882328433 1
 127C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\COPYRIGHT133207983879008008 0
@@ -628,10 +638,6 @@
 93C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\terser\dist\package.json133207983910382569 0
 103C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\features\webp.js133207983933087905 0
 81C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\yaml\browser133207983906069267 1
-85C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\readdirp\LICENSE133207983878262958 0
-107C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\css-tree\lib\syntax\atrule\supports.js133207983915721750 0
-109C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\runtime-browser-hmr\package.json133207983886948414 0
-84C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\yaml\index.d.ts133207983909487784 0
 100C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\regions\BY.js133207983913645582 0
 81C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\yaml\LICENSE133207983878227865 0
 100C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\regions\MD.js133207983927920255 0
@@ -892,9 +898,9 @@
 95C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\lightningcss\node\ast.d.ts133207983893388458 0
 95C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\v8-compile-cache\README.md133207983882692557 0
 86C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\svgo\lib\style.js133207983912201940 0
+98C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\source-map-js\source-map.d.ts133207983894665792 0
 90C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\htmlnano\package.json133207983906099656 0
 105C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\v8-compile-cache\v8-compile-cache.js133207983878917919 0
-98C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\source-map-js\source-map.d.ts133207983894665792 0
 100C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\regions\NP.js133207983929008377 0
 86C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\semver\bin\semver133207983879728597 0
 95C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\utility-types\CHANGELOG.md133207983888968685 0
@@ -1412,7 +1418,7 @@
 91C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\source-map\lib\util.js133207983891624908 0
 98C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\source-map\dist\source-map.js133207983897784082 0
 93C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\picocolors\picocolors.js133207983880404455 0
-80C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\iPhone.65a507eb.png133207985168298039 0
+80C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\iPhone.65a507eb.png133211228427141535 0
 99C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\cosmiconfig\dist\Explorer.d.ts133207983899959209 0
 102C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\source-map\dist\source-map.min.js133207983898175770 0
 102C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\reporter-cli\src\utils.js133207983890652216 0
@@ -2200,7 +2206,6 @@
 119C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\htmlnano\lib\modules\deduplicateAttributeValues.js133207983886990380 0
 105C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\htmlnano\lib\modules\mergeScripts.js133207983892184504 0
 104C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\htmlnano\lib\modules\mergeStyles.js133207983893021448 0
-118C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\htmlnano\lib\modules\minifyConditionalComments.js133207983894213163 0
 101C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\htmlnano\lib\modules\minifyJs.js133207983895265700 0
 115C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\features\link-rel-preload.js133207983927600960 0
 95C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\graph\lib\index.js133207983891640475 0
@@ -2310,7 +2315,7 @@
 87C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\escalade\readme.md133207983883229959 0
 91C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\escalade\sync\index.js133207983881172229 0
 135C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias133207983914225542 1
-81C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\Catalog.5ebe22b4.svg133207985168651002 0
+81C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\Catalog.5ebe22b4.svg133211264798782286 0
 92C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\escalade\dist\index.mjs133207983884169469 0
 93C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\css-select\lib\sort.d.ts133207983901690834 0
 153C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false\package.json133207983914739622 0
@@ -2426,9 +2431,6 @@
 115C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\features\devicepixelratio.js133207983921869012 0
 84C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\watcher133207983912470739 1
 87C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\domelementtype\lib133207983887699450 1
-94C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\chalk\source\templates.js133207983880890562 0
-96C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\domelementtype\package.json133207983883529121 0
-109C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\css-tree\lib\syntax\node\TypeSelector.js133207983915927485 0
 91C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\domelementtype\lib\esm133207983887015819 1
 95C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\watcher\index.d.ts133207983912611732 0
 98C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\domelementtype\lib\index.d.ts133207983887919538 0
@@ -2677,7 +2679,7 @@
 115C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\features\css-touch-action.js133207983918903375 0
 90C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\anymatch\package.json133207983880528676 0
 113C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts133207983901283104 0
-80C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\Person.880b4a19.svg133207985168651002 0
+80C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\Person.880b4a19.svg133211264798910373 0
 100C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\regions\LA.js133207983927373200 0
 117C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts.map133207983897174257 0
 85C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\cosmiconfig\dist133207983903887657 1
@@ -2710,9 +2712,6 @@
 86C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\commander\esm.mjs133207983886351494 0
 106C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\features\dataset.js133207983921350286 0
 87C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\commander\index.js133207983880506780 0
-91C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\callsites\package.json133207983878344706 0
-98C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\workers\lib\Worker.js133207983904472112 0
-100C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\regions\WF.js133207983933297535 0
 99C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\commander\package-support.json133207983881691862 0
 86C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\commander\typings133207983887022722 1
 87C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\color-name\LICENSE133207983880528676 0
@@ -2900,6 +2899,9 @@
 100C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\regions\US.js133207983932327282 0
 100C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\regions\VE.js133207983932507486 0
 100C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\regions\VU.js133207983932692280 0
+91C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\callsites\package.json133207983878344706 0
+98C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\workers\lib\Worker.js133207983904472112 0
+100C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\regions\WF.js133207983933297535 0
 100C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\regions\YE.js133207983933540252 0
 100C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\regions\YT.js133207983933560251 0
 100C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\regions\ZM.js133207983933598827 0
@@ -3359,7 +3361,7 @@
 109C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\features\websockets.js133207983933107906 0
 111C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\features\webtransport.js133207983933122908 0
 96C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\fs\src\OverlayFS.js133207983888174051 0
-83C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\index.574c7455.css.map133210547314577267 0
+83C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\index.574c7455.css.map133211276269273531 0
 105C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\features\webusb.js133207983933147907 0
 138C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\dist.js133207983897540058 0
 104C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\caniuse-lite\data\features\webvr.js133207983933162908 0
@@ -3535,7 +3537,7 @@
 98C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@swc\helpers\lib\_decorate.js133207983903795914 0
 105C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@swc\helpers\lib\_define_property.js133207983904780284 0
 93C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@swc\helpers\lib\_jsx.js133207983909618636 0
-81C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\BestShop.3464ddca.js133210543554927930 0
+81C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\BestShop.3464ddca.js133211264798988510 0
 101C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@swc\helpers\lib\_export_star.js133207983905168850 0
 94C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\core\src\types.js133207983916831690 0
 97C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@swc\helpers\lib\_extends.js133207983905374170 0
@@ -3718,7 +3720,6 @@
 104C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\utils\src\getCertificate.js133207983896863394 0
 101C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\utils\src\getExisting.js133207983897164264 0
 94C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\utils\src\glob.js133207983898135502 0
-97C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\cache\src\FSCache.js133207983881262308 0
 101C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\utils\src\http-server.js133207983898468910 0
 146C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module\module.js133207983910591722 0
 95C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\utils\src\index.js133207983905953534 0
@@ -4174,7 +4175,6 @@
 95C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\core\src\worker.js133207983917119480 0
 110C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\core\src\requests\AssetRequest.js133207983898894882 0
 111C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\core\src\requests\ConfigRequest.js133207983907921776 0
-106C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\cache\src\IDBCache.browser.js133207983883455971 0
 116C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\core\src\requests\ParcelBuildRequest.js133207983914683414 0
 111C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\core\src\requests\TargetRequest.js133207983916641612 0
 116C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\core\src\requests\WriteBundleRequest.js133207983917171487 0
@@ -4221,6 +4221,8 @@
 105C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\codeframe\test\fixtures\a.js133207983880034212 0
 103C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\codeframe\lib\codeframe.js133207983897452832 0
 95C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\cache\package.json133207983890880602 0
+97C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\cache\src\FSCache.js133207983881262308 0
+106C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\cache\src\IDBCache.browser.js133207983883455971 0
 98C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\cache\src\IDBCache.js133207983885705009 0
 95C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\cache\src\index.js133207983887122906 0
 99C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@parcel\cache\src\LMDBCache.js133207983888405283 0
@@ -4348,7 +4350,7 @@
 122C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@babel\helper-validator-identifier\lib\keyword.js.map133207983886494954 0
 90C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@babel\code-frame\lib133207983880553673 1
 99C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@babel\code-frame\package.json133207983882041779 0
-77C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\Eye.10263c42.svg133207985168460386 0
+77C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\Eye.10263c42.svg133211264798955375 0
 96C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\@babel\code-frame\README.md133207983879695732 0
 83C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\.bin\acorn.ps1133207983936806298 0
 86C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\node_modules\.bin\browserslist133207983936806298 0
@@ -4390,17 +4392,17 @@
 76C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\images\Mail Icon.svg133207978928580607 0
 73C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\images\Person.svg133207978928605607 0
 74C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\images\Trumpet.png133207978928629397 0
-84C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\Background.b0093fb6.png133210543554819769 0
-85C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\BestShop.3464ddca.js.map133210543554966980 0
+84C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\Background.b0093fb6.png133211264798965377 0
+85C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\BestShop.3464ddca.js.map133211264799034980 0
 83C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\Checkmark.5be52c02.svg133209648979879085 0
 85C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\Ckechmark-1.cf657890.svg133209648979884085 0
 82C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\Facebook.b1acd7ee.svg133209648979914086 0
-79C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\index.574c7455.css133210547314553604 0
+79C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\index.574c7455.css133211276269248379 0
 83C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\index.6dab377c.css.map133209647431489027 0
 79C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\index.9bfebdba.css133209647431407897 0
-71C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\index.html133210543555052485 0
-81C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\Macbook.a5eb91ef.png133207985168184826 0
+71C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\index.html133211264798746563 0
+81C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\Macbook.a5eb91ef.png133211264798925373 0
 83C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\Mail Icon.795518c4.svg133207985168651002 0
-81C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\Trumpet.d291d6ae.png133207985168179754 0
+81C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\dist\Trumpet.d291d6ae.png133211228403488413 0
 69C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\css\reset.css133207985161677082 0
 69C:\Users\48808\Desktop\codersL_new\00_practice\BestShop\css\style.css133209647375047178 0

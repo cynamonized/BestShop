@@ -1,15 +1,12 @@
-// max-1140 - small desktop
-// max-870 - collapse menu into hamburger
-// max-670 - full mobile
-
 @mixin small_desktop {
   @media (max-width: 1440px) {
     @content;
   }
 }
 
+// works from 1130 to 870px
 @mixin smallest_desktop {
-  @media (max-width: 1124px) {
+  @media (max-width: 1130px) {
     @content;
   }
 }

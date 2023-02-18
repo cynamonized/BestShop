@@ -54,6 +54,7 @@
       display: flex;
       flex-direction: column;
       justify-content: center;
+      width: 39%;
 
       .highlights-title--second-highlight {
         max-width: 246px;
@@ -69,7 +70,7 @@
           background-color: $color-primary;
           height: 4px;
           margin-top: 50px;
-          width: 332px;
+          width: 75%;
         }
       }
     }
@@ -77,9 +78,10 @@
     .highlights__left-column--second-highlight {
       position: relative;
       z-index: 0;
+      width: 61%;
 
       .highlights__left-column__image--second-highlight {
-        width: 56%;
+        width: 64%;
         height: auto;
         margin-left: 70px;
         margin-top: 29px;
@@ -105,87 +107,150 @@
 
   @include smallest_desktop {
     .container__highlights {
-      .highlights__left-column--first-highlight {
-      }
-
       .highlights__right-column--first-highlight {
         margin-right: 45px;
+      }
+
+      .highlights__left-column--second-highlight {
+        .highlights__left-column__image--second-highlight {
+          width: 80%;
+        }
       }
     }
   }
 
   @include tablet {
+    // First highlight
     padding-top: 42px;
+    padding-bottom: 42px;
+    //2nd adjustment - reverse back columns
+
     .container__highlights {
       .highlights__left-column--first-highlight {
         width: 60%;
-        margin-right: 25px;
+        margin-right: 22px;
+        margin-left: 22px;
       }
 
       .highlights__right-column--first-highlight {
         margin-top: 25px;
         margin-bottom: 25px;
-
-        // width: 20%;
+        width: 70%;
 
         .highlights__right-column__image--first-highlight {
           object-fit: contain;
           margin-top: 0px;
           margin-bottom: 0px;
 
-          //hard code - tb changed - %%% doesn't work
-          width: 250px;
+          width: 100%;
+        }
 
-          //   or works???? With 20% of container above
-          // TBD
-          //   width: 100%;
+        &::after {
+          height: 40%;
+          width: 40%;
+          left: 160px;
+          top: 50px;
         }
       }
 
-      //
+      // Second highlight
 
-      //font sizes change bc of specifity
-      //otherwise, it would be the same
-      // coz font sizes declared BELOW
-      .highlights-title {
-        font-size: 1.875rem;
+      .highlights__right-column--second-highlight {
+        margin-right: 36px;
       }
-      .highlights-subtitle {
-        font-size: 0.875rem;
+
+      .highlights__left-column--second-highlight {
+        margin-top: 50px;
+        .highlights__left-column__image--second-highlight {
+          margin-left: 35px;
+        }
 
         &::after {
-          width: unset;
+          left: 36px;
+          width: 230px;
+          height: 230px;
         }
       }
     }
   }
-}
 
-/* Widows */
+  @include mobile {
+    .container__highlights {
+      display: flex;
+      flex-direction: column-reverse;
+      justify-content: flex-start;
+      height: unset;
+      .highlights__left-column--first-highlight {
+        width: unset;
+      }
 
-.highlights-title {
-  text-align: left;
-  font-size: 2.25rem;
-  font-weight: 400;
-  margin-bottom: 30px;
-}
+      //MOBILE - First highlight
 
-.highlights-subtitle {
-  font-family: $font-open-sans;
-  text-align: left;
-  font-size: 1rem;
-  font-weight: 400;
-  line-height: 1.375rem;
-  color: var(--color-black);
-}
+      .highlights__right-column--first-highlight {
+        margin-right: unset;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        margin-top: 50px;
+        .highlights__right-column__image--first-highlight {
+          width: 50%;
+          position: relative;
+        }
 
-.highlights-subtitle::after {
-  content: "";
-  display: block;
-  background-color: $color-redish;
-  height: 4px;
-  margin-top: 50px;
-  width: 332px;
+        &::after {
+          width: 25%;
+          aspect-ratio: 1/1;
+          height: auto;
+          left: 55%;
+          top: -12%;
+          border-radius: 40%;
+        }
+      }
+
+      //MOBILE - second highlight
+
+      .highlights__right-column--second-highlight {
+        margin-left: 22px;
+        width: unset;
+
+        .highlights-title--second-highlight {
+          max-width: unset;
+        }
+
+        .highlights-subtitle--second-highlight {
+          //it has to be here coz specifity?
+          &::after {
+            display: none;
+          }
+        }
+      }
+
+      .highlights__left-column--second-highlight {
+        margin-top: 45px;
+        width: unset;
+        display: flex;
+        justify-content: center;
+        .highlights__left-column__image--second-highlight {
+          margin: unset;
+          margin-left: 20%;
+          width: 50%;
+        }
+
+        &::after {
+          width: 30%;
+          height: auto;
+          aspect-ratio: 1/1;
+          left: 35%;
+          top: -15px;
+        }
+      }
+    }
+
+    //reversing columns orders vs. first highlight
+    .container__highlights--second {
+      flex-direction: column;
+    }
+  }
 }
 
 /* Third highlight */
@@ -193,8 +258,7 @@
 .container-2-columns {
   flex-wrap: nowrap;
   justify-content: space-between;
-  width: $container-width;
-  width: 1124px;
+  gap: 50px;
 
   .column {
     border: 1px solid #e8e9ed;
@@ -203,8 +267,8 @@
   }
 
   .left-column {
-    padding-left: 35px;
-    padding-right: 35px;
+    padding-left: 36px;
+    padding-right: 36px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -242,5 +306,87 @@
       width: 68%;
       height: auto;
     }
+  }
+
+  @include mobile {
+    flex-wrap: wrap;
+    gap: 0;
+    .column {
+      padding-top: 40px;
+      padding-left: 22px;
+      padding-right: 22px;
+      width: 100%;
+    }
+
+    .left-column {
+      width: 100%;
+      border-radius: 4px 4px 0 0;
+      margin-bottom: -5px;
+      .highlights-subtitle__left-column {
+        &::after {
+          display: none;
+        }
+      }
+    }
+
+    .right-column {
+      height: unset;
+      .right-column__image {
+        object-fit: cover;
+        margin: unset;
+        width: 100%;
+      }
+    }
+  }
+}
+
+// Font sizes & titles - highlights
+.highlights-title {
+  text-align: left;
+  font-size: 2.25rem;
+  font-weight: 400;
+  margin-bottom: 30px;
+
+  @include tablet {
+    font-size: 1.875rem;
+  }
+
+  @include mobile {
+    margin-bottom: 40px;
+  }
+}
+
+.highlights-subtitle {
+  font-family: $font-open-sans;
+  text-align: left;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.375rem;
+  color: var(--color-black);
+
+  @include tablet {
+    font-size: 0.875rem;
+  }
+
+  @include mobile {
+    margin-bottom: 40px;
+  }
+}
+
+// This is only red highlight
+.highlights-subtitle::after {
+  content: "";
+  display: block;
+  background-color: $color-redish;
+  height: 4px;
+  margin-top: 50px;
+  width: 332px;
+
+  @include tablet {
+    width: unset;
+  }
+
+  @include mobile {
+    display: none;
   }
 }

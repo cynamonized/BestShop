@@ -39,11 +39,11 @@
   font-weight: 600;
   border-radius: 23px;
   position: absolute;
-  bottom: -5%;
+  bottom: -22px;
 }
 
 .btn-secondary--red {
-  background-color: var(--color-redish);
+  background-color: $color-redish;
 }
 
 .btn-secondary--red:hover {
@@ -51,11 +51,11 @@
 }
 
 .btn-secondary--blue {
-  background-color: var(--color-primary);
+  background-color: $color-primary;
 }
 
 .btn-secondary--green {
-  background-color: var(--color-green);
+  background-color: $color-green;
 }
 
 .btn-secondary--green:hover {
@@ -63,6 +63,8 @@
 }
 
 .btn-contact {
+  font-family: $font-open-sans;
+  font-weight: 600;
   font-size: 0.8125rem;
   padding: 20px 97px;
   margin-top: 20px;
