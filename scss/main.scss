@@ -74,6 +74,7 @@ a {
 @import "/scss/sections/_statistics";
 @import "/scss/sections/_highlights";
 @import "/scss/sections/_pricing";
+@import "/scss/sections/_calculator";
 
 .container__pricing {
   @include smallest_desktop {

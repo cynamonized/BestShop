@@ -22,3 +22,20 @@
     @content;
   }
 }
+
+@mixin input-forms {
+  width: 100%;
+  min-height: 40px;
+  box-shadow: 0px 3px 6px #08a6e429;
+  border: 1px solid $color-primary;
+  border-radius: 6px;
+}
+
+@mixin input-forms__placeholders {
+  padding: 11px 0;
+
+  font-size: 0.8125rem;
+  line-height: 0.8125rem;
+  font-family: $font-open-sans;
+  color: $color-text-grey;
+}

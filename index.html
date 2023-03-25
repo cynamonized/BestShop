@@ -130,6 +130,8 @@
           </div>
     </section>
 
+   
+
          
 
       <section class="pricing" id="pricing">
@@ -195,6 +197,129 @@
               <button class="btn-primary btn-secondary btn-secondary--green">Begin</button>
             </div>
           </div>
+      </section>
+
+      <section class="calculator" id="calculator">
+        <div class="container container__calculator">
+          <div class="calculator__title-section">
+            <h2 class="title-section__title">Calculate how much you’ll pay</h2>
+          </div>
+    
+          <div class="calculator__columns">
+
+            <!--  -->
+            <!-- LEFT COLUMN -->
+            <!--  -->
+
+            <div class="columns__left-column">
+              <form class="left-column__form">
+                <div class="form__input input--products-quantity">
+                  <input type="number" class="input__number input__number--products-quantity" placeholder="Products quantity" >
+                </div>
+    
+                <div class="form__input input--estimated-months">
+                  <input type="number" class="input__number input__number--estimated-months" placeholder="Estimated orders in month">
+                </div>
+    
+                <div class="form__input-select">
+                  <p class="input-select__text">Choose package</p>
+                  <img src="./images/Arrow Down.svg" alt="" class="input-select__icon">
+                
+                </div>
+    
+                <!-- (1) Hidden from the beginning -->
+                <ul class="form-select-options">
+                  <li class="options__single-option">Basic</li>
+                  <li class="options__single-option">Professional</li>
+                  <li class="options__single-option">Premium</li>
+                </ul>
+                <!--  -->
+    
+                <div class="form__checkbox checkbox--accounting">
+                  <label class="form-label__checkbox checkbox--one-line-text">
+                    <input type="checkbox" id="accounting"/>
+                    <span class="checkbox"></span>
+                    <p class="checkbox__text">
+                      Accounting
+                    </p>
+                  </label>
+                </div>
+    
+                <div class="form__checkbox checkbox--rentall">
+                  <label class="form-label__checkbox checkbox--one-line-text">
+                    <input type="checkbox" id="terminal"/>
+                    <span class="checkbox"></span>
+                    <p class="checkbox__text">
+                      Rental of a payment terminal
+                    </p>
+                  </label>
+                </div>
+              </form>
+            </div>
+
+
+            <!--  -->
+            <!-- RIGHT COLUMN -->
+            <!--  -->
+
+            <div class="columns__right-column">
+              <!-- (1) Products quantity -->
+              <div class="right-column__row row--products">
+                <p class="row__row-header row-header--produts">Products</p>
+                <div class="row__values">
+                  <p class="values__math math--products">0</p>
+                  <p class="values__price price--products">$0</p>
+                </div>
+              </div>
+              <!--  -->
+
+              <!-- (2) Estimated months -->
+              <div class="right-column__row row--months">
+                <p class="row__row-header row-header--produts">Orders</p>
+                <div class="row__values">
+                  <p class="values__math math--months">0</p>
+                  <p class="values__price price--months">$0</p>
+                </div>
+              </div>
+              <!--  -->
+
+              <!-- (3) Package -->
+              <div class="right-column__row row--package">
+                <p class="row__row-header row-header--produts">Package</p>
+                <div class="row__values">
+                  <p class="values__math math--package">Basic</p>
+                  <p class="values__price price--package">$0</p>
+                </div>
+              </div>
+              <!--  -->
+
+              <!-- (4) Accounting -->
+              <div class="right-column__row row--accounting">
+                <p class="row__row-header row-header--produts">Accounting</p>
+                <div class="row__values">
+                  <p class="values__price price--accounting">$0</p>
+                </div>
+              </div>
+              <!--  -->
+
+              <!-- (5) Terminal rental -->
+              <div class="right-column__row row--terminal">
+                <p class="row__row-header row-header--produts">Terminal</p>
+                <div class="row__values">
+                  <p class="values__price price--accounting">$0</p>
+                </div>
+              </div>
+              <!--  -->
+    
+              <!-- Hidden from the beginning -->
+              <div class="right-column__total">
+                <p class="total__row-header">Total</p>
+                <p class="total__price">$0</p>
+              </div>
+              <!--  -->
+            </div>
+          </div>
+        </div>
       </section>
 
 
@@ -277,5 +402,8 @@
 
 
 </footer> 
+<!-- 
+<script src="js/app.js"></script> -->
+<script src="js/app2.js"></script>
   </body>
 </html>
